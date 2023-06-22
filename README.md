@@ -13,8 +13,6 @@ Studying food technology as a major at Sebelas Maret University.
 
 Reach me by mail at salman.ufal@gmail.com
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001457.3f5378cc2b174815bed5395f66b61e88.0602)](https://github.com/rayriffy/apple-music-github-profile)
-
 <!---
 ritokatsuga/ritokatsuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
