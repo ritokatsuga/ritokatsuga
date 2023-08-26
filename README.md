@@ -11,7 +11,7 @@ Work at Retrospective Klaten and Kebuli Musthofa.<br>
 Also working on Touhou Project Indonesia, Suzunaan Jogja, Rhodes Wiki, Hakumai and Suara Youkai.<br>
 Studying food technology as a major at Sebelas Maret University.
 
-Reach me by mail at salman.ufal@gmail.com
+Reach me by mail at kontak@ufal.my.id
 
 <!---
 ritokatsuga/ritokatsuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
