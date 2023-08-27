@@ -1,4 +1,4 @@
-Hello, I'm Ufal Salman.<br>
+Hello, I'm Ufal Salman, also known as ritokatsuga.<br>
 A creator, music producer, and translator.<br>
 Interested in retro computers, translations, virtual YouTubers and doujin music.<br>
 Occasionally create computer-related video and blog content online.<br>
