@@ -13,6 +13,8 @@ Studying food technology as a major at Sebelas Maret University.
 
 Reach me by mail at kontak@ufal.my.id
 
+[My favorite Nijisanji livers](https://better-nijisort.pages.dev/?D4RgbAHAnAzArABjGBqbChOAmGZjYIhEmpkgjbbGFVHHEkWEMItWH0XleulvcKjakIG9OjPkWr0mjaakqcJ5FosHzZZdjTnkGG7mMWkj3ERtWkJh2UKPqHJ4-y5km7+1PeOnm+1yczgIyWvpCMgZylKwOTr7MPsGeXhGiko7uVGY5qbRZkQYBPBbZJnGu9nQCqV60qW6i9CLJSaHMSm7hAU1JXvpB0Ul9tcWKHFTApEA)
+
 <!---
 ritokatsuga/ritokatsuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
