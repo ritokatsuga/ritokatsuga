@@ -4,7 +4,7 @@ Interested in retro computers, translations, virtual YouTubers and doujin music.
 Occasionally create computer-related video and blog content online.<br>
 Learned basic HTML and CSS in high school.
 
-I mainly maintain Better-Nijisort and StarRailSort sorter websites, each for NIJISANJI livers and Honkai: Star Rail characters.<br>
+I mainly maintain Better-Nijisort, StarRailSort, Better-Holosort sorter websites.<br>
 Planning to make something similar for other franchises later.
 
 Work at Retrospective Klaten and Kebuli Musthofa.<br>
