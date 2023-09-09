@@ -17,6 +17,8 @@ My favorite [Nijisanji livers](https://better-nijisort.pages.dev/?D4RgbAHAnAzArA
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ufalsalman)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21p6fulsceji4rj3dvxkao3eq)
+
 <!---
 ritokatsuga/ritokatsuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
