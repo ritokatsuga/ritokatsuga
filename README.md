@@ -1,7 +1,8 @@
 Hello, I'm Ufal Salman, also known as ritokatsuga.<br>
 A creator, music producer, and translator.<br>
-Interested in retro computers, translations, virtual YouTubers and doujin music.<br>
-Occasionally create computer-related video and blog content online.<br>
+I have interests in retro computers, translations, virtual YouTubers, and doujin music.<br>
+Making some video and blog content online.<br>
+About to finish my study on food technology.<br>
 Learned basic HTML and CSS in high school.
 
 I mainly maintain Better-Nijisort, StarRailSort, Better-Holosort sorter websites.<br>
