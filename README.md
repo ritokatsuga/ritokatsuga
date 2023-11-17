@@ -16,8 +16,6 @@ Reach me by mail at salman.ufal@gmail.com
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ritokatsuga&theme=dark&show_icons=true)
 
-My favorite [Nijisanji livers](https://better-nijisort.pages.dev/?D4RgbAHAnAzArABjGBqbChOAmGZjYIhEmpkgjbbGFVHHEkWEMItWH0XleulvcKjakIG9OjPkWr0mjaakqcJ5FosHzZZdjTnkGG7mMWkj3ERtWkJh2UKPqHJ4-y5km7+1PeOnm+1yczgIyWvpCMgZylKwOTr7MPsGeXhGiko7uVGY5qbRZkQYBPBbZJnGu9nQCqV60qW6i9CLJSaHMSm7hAU1JXvpB0Ul9tcWKHFTApEA) and [Hololive members](https://better-holosort.pages.dev/id?IwNgnAzATGUAxhFUAfaAWA7FTK7-2WDmGOJPOGX2PlJOvgrJbmoKo+ZIroe5ZM2pWvR4E2NCsPHkJ9ESJpiGLBVInz1Zcfyj6F2gRyWb9RUlDxkgA)
-
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ufalsalman)
 
 <!---
