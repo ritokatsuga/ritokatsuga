@@ -1,18 +1,14 @@
-Hello, I'm Ufal Salman, also known as ritokatsuga.<br>
-A creator, music producer, and translator.<br>
-I have interests in retro computers, translations, virtual YouTubers, and doujin music.<br>
-Making some video and blog content online.<br>
-About to finish my study on food technology.<br>
-Learned basic HTML and CSS in high school.
+Hello, my name is Muhammad Naufal Salman. You can call me Ufal.
 
-I mainly maintain Better-Nijisort, StarRailSort, Better-Holosort sorter websites.<br>
-Planning to make something similar for other franchises later.
+I'm 23 years old college student living in Indonesia who love computers since I was a kid. Besides in college, I also writing cool stuff, making music, translating stuff I love. I have a small middle east shop at home too, and I run a side gig for translation and writing commission.
 
-Work at Retrospective Klaten and Kebuli Musthofa.<br>
-Also working on Touhou Project Indonesia, Suzunaan Jogja, Rhodes Wiki, Hakumai and Suara Youkai.<br>
-Studying food technology as a major at Sebelas Maret University.
+I'm writing articles on my blog, making YouTube video and a podcast show with variety of topics I'm interested in. I made this blog to publish my articles in English.
 
-Reach me by mail at salman.ufal@gmail.com
+I have many hobbies and interests, mainly such as retro computer, Japanese modern culture, food technology, and linguistics. Loves Linux (I still mainly on Windows, though), open source software, web development, indieweb, virtual YouTuber, and doujin music. I also following Touhou Project, Arknights, iDOLM@STER, NIJISANJI, KAMITSUBAKI STUDIO.
+
+I make my articles, video and content under Retrospective Klaten, my creative home studio.
+
+I will available on Twitter at [@ufalsalman](https://x.com/ufalsalman) and Fediverse at [@ufal@misskey.id](https://misskey.id/ufal) (Indonesian) or [@ufal@mastodon.social](https://mastodon.social/ufal) (English). Visit my website if want to, [www.ufal.my.id](https://www.ufal.my.id). Hit me up on halo@ufal.my.id if want to say something.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ritokatsuga&theme=dark&show_icons=true)
 
